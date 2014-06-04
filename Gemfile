@@ -14,3 +14,4 @@ gem 'taps'
 gem 'rvm'
 gem 'sqlite3'
 end
+gem 'pg'
