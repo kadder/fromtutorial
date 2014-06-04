@@ -12,4 +12,5 @@ group :development do
 gem 'spring'
 gem 'taps'
 gem 'rvm'
+gem 'sqlite3'
 end
